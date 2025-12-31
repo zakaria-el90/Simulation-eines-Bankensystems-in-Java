@@ -37,4 +37,4 @@ Das Hauptfenster ermöglicht das Anlegen und Auswählen von Konten. Über die Ac
 
 ## Lizenz
 
-Dieses Projekt ist eine Studien-/Übungsaufgabe und enthält keine explizite Lizenz.
+Dieses Projekt ist eine Studien-/Übungsaufgabe (Praktikum) und enthält keine explizite Lizenz.
